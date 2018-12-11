@@ -28,7 +28,7 @@ txtscroll.js是一个基于jQuery的文本无缝循环滚动插件，使用插�
 </div>
 
 
-<h3>使用</h3>
+<h3>使用方法</h3>
 <div class="txt">
 <pre>
 &lt;div class="txt-scroll"&gt;
