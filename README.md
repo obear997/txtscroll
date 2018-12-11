@@ -1,7 +1,7 @@
 # txtscroll.js
 
-txtscroll.js是一个基于jQuery的文本无缝循环滚动插件，使用插件之前需要引入jQuery。
-
+txtscroll.js是一个基于jQuery的文本无缝循环滚动插件，使用插件之前需要引入jQuery。<br />
+注意：文本长度需大于盒子宽度方可激活滚动，否则无滚动效果。
 
 <h3>特性</h3>
 支持jQuery3.3+ <br />
@@ -54,3 +54,5 @@ txtscroll.js是一个基于jQuery的文本无缝循环滚动插件，使用插�
 "txt-scroll"： 最外层盒子，类名可改<br />
 "scrollbox"：插件默认包裹类，名称暂不支持修改<br />
 "txt"：文本盒子，名称暂不支持修改
+
+
